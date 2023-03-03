@@ -1,2 +1,6 @@
 Practice.txt
-H2O/target/**
+target/**/*.jsp
+target/**/*.xml
+target/**/*.jar
+target/**/*.war
+target/**/*.properties
